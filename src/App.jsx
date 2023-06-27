@@ -11,7 +11,8 @@ const App = () => {
       <AppContext.Provider
         value={{
           filter,
-          setFilter,
+          setFilter, 
+          
         }}
       >
         <Navbar />
